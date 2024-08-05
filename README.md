@@ -6,7 +6,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=emanoelds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div><br>
 
-##Tecnologias que aprendo e uso:<br>
+##Tecnologias que utilizo:<br>
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60"/>      
@@ -17,7 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50"/>   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="50"/>     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50"/>     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="50"/>              
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop.svg" width="50"/>              
 </div>
 
 <hr>
