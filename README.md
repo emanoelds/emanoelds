@@ -1,5 +1,4 @@
-# 💫 Sobre mim:
-👨‍💻 Tecnólogo em Sistemas para Internet<br>
+# 👨‍💻 Tecnólogo em Sistemas para Internet<br>
 
 
 ## 🌐 Redes sociais:
